@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using XSystem.Security.Cryptography;
 
-namespace ChallengeDotNET.Models
+namespace ChallengeDotNet.Models
 {
     public class Password
     {

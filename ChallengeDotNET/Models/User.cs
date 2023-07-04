@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ChallengeDotNET.Models
+namespace ChallengeDotNet.Models
 {
     public class User
     {

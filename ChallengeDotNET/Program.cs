@@ -1,4 +1,4 @@
-﻿using ChallengeDotNET.Models;
+﻿using ChallengeDotNet.Models;
 
 try
 {
